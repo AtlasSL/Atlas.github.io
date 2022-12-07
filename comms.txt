@@ -1,7 +1,0 @@
-
-Your screen has a resolution of 1920x1080 pixels with a colordepth of 24 bit
-
-Your browser can currently view 1864x931 pixels of this website.
-
-
-crear redirec left ul Login/Register + .html x2
